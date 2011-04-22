@@ -154,6 +154,7 @@ nnoremap <silent> <F9> :TlistToggle<CR>
 "
 let VCSCommandMapPrefix='<Leader>v'
 nmap <Leader>vp :VCSVimDiff 
+
 "|:VCSAdd|
 "|:VCSAnnotate|
 "|:VCSBlame|
